@@ -2,4 +2,4 @@
 Showcasing the iOS version of the social encountering platform.
 
 # Video Showcase
-[![Video Showcase](thumbnail.png)](https://youtu.be/zuXHb1mQmDA)
+[![Video Showcase](thumbnail.jpg)](https://youtu.be/zuXHb1mQmDA)
